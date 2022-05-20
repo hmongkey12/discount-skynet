@@ -9,14 +9,15 @@ The elifproj.py and refactored.py do the same thing.  The refactored.py is just 
 To run the project:
 
 ```
-python3 elifproj.py
+python3 refactored.py
 ```
 
 or
 
 ```
-python3 refactored.py
+python3 elifproj.py
 ```
+
 
 Discount Skynet demonstrates the use of if/else/elif statements, while loops, and dictionaries.  The dictionary functions like a decision tree and grows as the user enters information.  If the animal is not already in the dictionary, the animal is added to it so that the program can "learn".
 
