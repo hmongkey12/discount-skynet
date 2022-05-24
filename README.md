@@ -4,20 +4,11 @@ Hi, I am Discount Skynet.  Lets play a game.
 You pick an animal and I try to guess what the animal is.
 If I fail, tell me what animal it is and what it does, so I can learn to help humanity.
 
-The elifproj.py and refactored.py do the same thing.  The refactored.py is just a refactored version of elifproj.py
-
 To run the project:
 
 ```
-python3 refactored.py
+python3 discount-skynet.py
 ```
-
-or
-
-```
-python3 elifproj.py
-```
-
 
 Discount Skynet demonstrates the use of if/else/elif statements, while loops, and dictionaries.  The dictionary functions like a decision tree and grows as the user enters information.  If the animal is not already in the dictionary, the animal is added to it so that the program can "learn".
 
