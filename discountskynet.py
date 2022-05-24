@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 #Play checks the user input for 'y' or 'n'.  keepGoing will be set to true if discount-skynet 
 # makes a correct guess and is used to break out of the loop.  Memory start off as the mainMemory dictionary, which
 # will contain the root animals and their actions.  As the dictionary grows in size, the memory will be moving around
