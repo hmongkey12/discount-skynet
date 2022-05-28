@@ -1,5 +1,7 @@
 # discount-skynet
 
+![term](https://user-images.githubusercontent.com/9085803/170802277-5772c761-0225-46eb-9d25-0bbd7d085458.png)
+
 Hi, I am Discount Skynet.  Lets play a game. 
 You pick an animal and I try to guess what the animal is.
 If I fail, tell me what animal it is and what it does, so I can learn to help humanity.
